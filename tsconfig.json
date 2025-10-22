@@ -26,11 +26,9 @@
     "baseUrl": "./src",
     "paths": {
       "@/*": ["./*"],
-      "@/gateway/*": ["./gateway/*"],
-      "@/servers/*": ["./servers/*"],
-      "@/middleware/*": ["./middleware/*"],
+      "@/modules/*": ["./modules/*"],
+      "@/common/*": ["./common/*"],
       "@/config/*": ["./config/*"],
-      "@/utils/*": ["./utils/*"],
       "@/types/*": ["./types/*"]
     }
   },
